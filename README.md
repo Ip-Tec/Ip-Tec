@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello, I'm [Your Name] 👋<br><br>
+# Hello, I'm Peter Otakhor 👋<br><br>
 A Full-Stack Developer specializing in Android and Windows apps, web development, and problem-solving with emerging tech.<br><br>
 🚀 My Current Projects<br><br>- 🔥 **Kyrus/TrashPoint**: I'm currently working on Kyrus/TrashPoint, a project that integrates modern technologies like:<br>  - Frontend: Next.js, TailwindCSS, Framer Motion, React Query<br>  - Backend: Node.js with Express, Mongoose<br><br>- 🔧 **Auto-docu**: A project to enable users to sign documents digitally. The MVP is in progress.<br><br>
 🔨 My Tech Stack<br><br>- **Frontend**: Next.js, React Native, TailwindCSS, Expo<br>- **Backend**: Node.js, Express, Mongoose, PHP, Python<br>- **Tools**: PM2, GitHub, Supabase<br>- **Platforms**: Android, Windows<br><br>## 💡 What I’m Currently Learning<br><br>
