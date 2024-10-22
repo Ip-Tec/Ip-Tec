@@ -18,8 +18,6 @@ You can check out more of my projects [https://github.com/Ip-Tec](https://github
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ip-Tec&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ip-Tec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ip-Tec&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ip-Tec&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
